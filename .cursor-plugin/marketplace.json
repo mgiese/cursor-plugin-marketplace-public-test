@@ -11,9 +11,9 @@
                  },
     "plugins":  [
                     {
-                        "name":  "discovery",
-                        "source":  "discovery",
-                        "description":  "Discovery, feasibility, and background research workflows"
+                        "name":  "core",
+                        "source":  "core",
+                        "description":  "Core testing"
                     }
                 ]
 }
