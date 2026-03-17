@@ -1,0 +1,1 @@
+# cursor-plugin-marketplace-public-test
