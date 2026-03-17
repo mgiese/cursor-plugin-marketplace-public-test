@@ -1,0 +1,19 @@
+{
+    "name":  "giese-sdlc-marketplace",
+    "displayName":  "giese SDLC Plugin Marketplace",
+    "version":  "1.1.1",
+    "description":  "Private team marketplace covering the full giese software development lifecycle — from discovery through QA automation.",
+    "owner":  {
+                  "name":  "giese"
+              },
+    "metadata":  {
+                     "pluginRoot":  "plugins"
+                 },
+    "plugins":  [
+                    {
+                        "name":  "discovery",
+                        "source":  "discovery",
+                        "description":  "Discovery, feasibility, and background research workflows"
+                    }
+                ]
+}

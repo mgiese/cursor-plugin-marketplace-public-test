@@ -1,0 +1,11 @@
+{
+  "name": "core",
+  "version": "0.1.0",
+  "description": "Universal agent behavior, documentation standards, and shared tooling across all teams.",
+  "license": "UNLICENSED",
+  "keywords": [
+    "core",
+    "conduct",
+    "documentation"
+  ]
+}
